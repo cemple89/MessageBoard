@@ -1,8 +1,11 @@
 source 'https://rubygems.org/'
 
+gem 'devise'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'rails', '~> 5'
 gem 'pg', '~> 0.15'
 gem 'sass-rails', '~> 5.0'
+gem 'simple_form'
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'listen'
